@@ -1,0 +1,15 @@
+certifi==2019.6.16
+chardet==3.0.4
+Django==1.11
+idna==2.8
+MySQL-python==1.2.5
+Naked==0.1.31
+pyasn1==0.4.5
+pycryptodomex==3.8.2
+pytz==2019.1
+PyYAML==5.1.1
+requests==2.22.0
+reverse==0.1.0
+rsa==3.4.1
+shellescape==3.4.1
+urllib3==1.25.3
